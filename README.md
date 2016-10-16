@@ -14,7 +14,7 @@
 ![Login Screen](http://i.imgur.com/1PhJJbm.png)
 
 
-![Register Screen](http://i.imgur.com/PRhUNfi.png)
+![Register Screen](http://i.imgur.com/FTPcniL.png)
 
 
 ![Main Screen](http://i.imgur.com/ZhxtW7P.png)
